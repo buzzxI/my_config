@@ -24,4 +24,12 @@ zsh contains many plugins, some are useful, some just pretty, all the config are
 
 > [powerlevel10k](https://github.com/romkatv/powerlevel10k) is a theme of zsh, .p10k.zsh is used to config terminal layout
 
+# themeable
 
+this .css file is used for typora theme
+
+> deep, dark, fantasy
+
+these files need to be placed at: `C:\Users\[user name]\AppData\Roaming\Typora\themes`
+
+> you can enter this directory from typora itself (it contains a theme configuration, just enter)
